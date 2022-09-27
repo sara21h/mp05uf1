@@ -1,2 +1,0 @@
-# Llenguatges de programació
-## ACTIVITATS
