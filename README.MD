@@ -25,18 +25,45 @@ Fins a l'any 2018, el desenvolupament d'aquest popular llenguatge de programaci�
 
 - Alguns **avantatges**: **llenguatge sezill** i de **gran potencial**, **biblioteques i frameworks** i és **multiplataforma**.
 
+*Framework* :
+Un framework és un marc o esquema de treball. Utilitzar un framework permet agilitzar els processos de desenvolupament ja que evita haver d'escriure codi de forma repetitiva, assegura unes bones pràctiques i la consistència del codi.
+*Biblioteca* :
+són espais on es guarden arxius que posteriorment utilitzen els programadors per executar un programa,
+
 ##### EXEMPLE CODI
 
 dir hola món:
 
-![image](https://user-images.githubusercontent.com/113586105/192732581-66f4de59-30e3-4f7a-98bc-130d55b40513.png)
+![image](https://user-images.githubusercontent.com/113586105/192860819-4e0ae792-d37a-43aa-884a-3e0f214a3dfc.png)
+
 
 demanar el nom de l'usuari:
 
 ![image](https://user-images.githubusercontent.com/113586105/192735548-09938765-a791-448c-8739-116b16fd9645.png)
 
+##### OFERTES TREBALL PROGRAMADOR PYTHON (INFOJOBS)
 
+Jo he trobat bastantes ofertes com a programador de python y bastantes noves. Unes 4 pàgines d'ofertes d'aquest mes, més o menys.
 
+###### BIBLIOTECA
+
+-https://www.arimetrics.com/glosario-digital/framework
+-https://auladig.co/que-es-una-libreria-de-programacion/
+- https://www.infojobs.net/ofertas-trabajo/python?keyword=python&normalizedJobTitleIds=&provinceIds=&cityIds=&teleworkingIds=&categoryIds=&workdayIds=&educationIds=&segmentId=&contractTypeIds=&page=4&sortBy=RELEVANCE&onlyForeignCountry=false&countryIds=&sinceDate=ANY&subcategoryIds= INFOJOBS
+
+- https://keepcoding.io/blog/ventajas-y-desventajas-de-python/ 
+
+- https://www.tokioschool.com/noticias/historia-python/
+
+- https://talently.tech/blog/python-ventajas-y-desventajas/
+
+- https://openwebinars.net/blog/que-es-python/
+
+estes van al final-----------------------------------------------
+- He utilitzat un compilador online per a comprovar els codis (https://www.programiz.com/python-programming/online-compiler/)
+- https://markdown.es/
+- https://steemit.com/spanish/@lilttlejoel/la-ultima-guia-para-alineacion-de-imagen-y-links-en-markdown-conviertete-en-un-profesional-ahora-con-estos-sencillos-consejos
+- https://www.wake-up-neo.net/es/image/cambio-de-tamano-de-imagen-en-markdown/1071362789/
 
 2. **JAVA** :
 
