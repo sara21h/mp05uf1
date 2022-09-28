@@ -27,7 +27,14 @@ Fins a l'any 2018, el desenvolupament d'aquest popular llenguatge de programaci√
 
 ##### EXEMPLE CODI
 
+dir hola m√≥n:
+
 ![image](https://user-images.githubusercontent.com/113586105/192732581-66f4de59-30e3-4f7a-98bc-130d55b40513.png)
+
+demanar el nom de l'usuari:
+
+![image](https://user-images.githubusercontent.com/113586105/192735548-09938765-a791-448c-8739-116b16fd9645.png)
+
 
 
 
