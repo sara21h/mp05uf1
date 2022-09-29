@@ -21,7 +21,7 @@ La *modularitat* és una propietat que ens permet subdividir el nostre programa 
 
 Fins a l'any 2018, el desenvolupament d'aquest popular llenguatge de programació estava dirigit personalment per Van Rossum, però va decidir apartar-se i, des del 2019, són cinc les persones que decideixen com evoluciona i es desenvolupa Python. Un consell que es renova de manera anual.
 
-- Alguns **desavantatges**: la **lentitud**, el **consum de memòria** i el **desenvolupament mòbil**.
+- Alguns **desavantatges**: la **lentitud**, el **consum de memòria** i el **desenvolupament mòbil**. programa orientat a objectes (abaix he posat lo dallos
 
 - Alguns **avantatges**: **llenguatge sezill** i de **gran potencial**, **biblioteques i frameworks** i és **multiplataforma**.
 
@@ -66,6 +66,8 @@ estes van al final-----------------------------------------------
 - https://www.wake-up-neo.net/es/image/cambio-de-tamano-de-imagen-en-markdown/1071362789/
 
 2. **JAVA** :
-
 <img src="http://www.forcode.es/wp-content/uploads/2012/12/Logo-Java.jpg" width="300"  height="150"/>
 
+- Java es va crear per James Gosling, un informàtic canadenc a l'any 1956.
+
+- L'equip original de l'empresa estava format per James Gosling, Eric Schmidt, John Gaga, Patrick Naughton i Wayne Rosing.
