@@ -200,7 +200,7 @@ Crec que hi ha menys ofertes que amb Python o Java.
 
 <img src="https://user-images.githubusercontent.com/113586105/193135996-44e70ad4-0609-4681-bf69-cfe8778f9f70.png" width="200" height="170"/>
 
-**Brendan Eich** va escriure la primera versió de JavaScript en només deu dies de maig per del **1995** per encàrrec de Netscape Communications Corporation. Un quart de segle més tard, continua sent una part clau d'Internet.
+**Brendan Eich** va escriure la primera versió de JavaScript en només deu dies de maig per del **1995** per encàrrec de *Netscape Communications Corporation*. Un quart de segle més tard, continua sent una part clau d'Internet.
 
 <img src="https://user-images.githubusercontent.com/113586105/193136494-ac9cd30e-6fa6-451c-893b-0e466335224c.png" width="200" height="170"/>
 
