@@ -48,8 +48,10 @@ Jo he trobat bastantes ofertes com a programador de python y bastantes noves. Un
 ###### BIBLIOTECA
 
 -https://www.arimetrics.com/glosario-digital/framework
+
 -https://auladig.co/que-es-una-libreria-de-programacion/
-- https://www.infojobs.net/ofertas-trabajo/python?keyword=python&normalizedJobTitleIds=&provinceIds=&cityIds=&teleworkingIds=&categoryIds=&workdayIds=&educationIds=&segmentId=&contractTypeIds=&page=4&sortBy=RELEVANCE&onlyForeignCountry=false&countryIds=&sinceDate=ANY&subcategoryIds= INFOJOBS
+
+- https://www.infojobs.net/ofertas-trabajo/python?keyword=python&normalizedJobTitleIds=&provinceIds=&cityIds=&teleworkingIds=&categoryIds=&workdayIds=&educationIds=&segmentId=&contractTypeIds=&page=4&sortBy=RELEVANCE&onlyForeignCountry=false&countryIds=&sinceDate=ANY&subcategoryIds= 
 
 - https://keepcoding.io/blog/ventajas-y-desventajas-de-python/ 
 
@@ -59,15 +61,146 @@ Jo he trobat bastantes ofertes com a programador de python y bastantes noves. Un
 
 - https://openwebinars.net/blog/que-es-python/
 
-estes van al final-----------------------------------------------
-- He utilitzat un compilador online per a comprovar els codis (https://www.programiz.com/python-programming/online-compiler/)
-- https://markdown.es/
-- https://steemit.com/spanish/@lilttlejoel/la-ultima-guia-para-alineacion-de-imagen-y-links-en-markdown-conviertete-en-un-profesional-ahora-con-estos-sencillos-consejos
-- https://www.wake-up-neo.net/es/image/cambio-de-tamano-de-imagen-en-markdown/1071362789/
+--------------------------------------------------------------------------------------------------------------------------------------------------------
 
 2. **JAVA** :
 <img src="http://www.forcode.es/wp-content/uploads/2012/12/Logo-Java.jpg" width="300"  height="150"/>
 
-- Java es va crear per James Gosling, un informàtic canadenc a l'any 1956.
+- Java es va crear per **James Gosling** (va ser creació de l'empresa Sun) l'any **1956**, ell era un informàtic canadenc que treballava per la companya **Sun Microsystems**, on va ser vicepresident fins que aquesta va ser **comprada per Oracle** al 2010 per 7.400 millons de dolars.
+
+<img src="https://user-images.githubusercontent.com/113586105/193111693-56dc289b-4a0a-4ccb-ac44-a71f991e1e1d.png" width="200" height="100"/>
+
+- És **interpretat**. És particular perquè és compilat a un llenguatge intermedi anomenat bytecode, que després és interpretat. Ja que ells volien crear un llenguatge compilat però que es pogués executar a qualsevol sistema operatiu i processador sense necessitat de crear diversos executables.
 
 - L'equip original de l'empresa estava format per James Gosling, Eric Schmidt, John Gaga, Patrick Naughton i Wayne Rosing.
+
+Al juny i juliol de l'any 1994, l'equip de professionals va desenvolupar una **plataforma Java basada en una màquina virtual** i un llenguatge molt similar a C++. Alhora es va desenvolupar un navegador compatible, HotJava.
+
+- L'any 1996, la mateixa Sun Microsystems va crear el grup empresarial **JavaSoft**, orientat exclusivament al **desenvolupament** tecnològic **d'aquest llenguatge** de programació.
+
+<img src="https://user-images.githubusercontent.com/113586105/193105030-e1d7c01f-603f-4740-8931-7b359d7d84d7.png" width="200" height="200"/>
+
+Des de llavors fins ara, Java ha passat des de la seva **versió inicial JDK 1.0** fins a la **Java 8 Update 291** que es va implementar el 20 d'abril del 2021.
+
+- Alguns **desavantatges**: més **lent**, l'aspecte predeterminat no és el mateix que el de les aplicacions locals, requereix bastant **memòria** i pels **codis complexes**. Al ser un llenguatge **interpretat**, el rendiment en l'execució de programes sol ser una mica menor.
+
+- Alguns **avantatges**: **Senzill** (es fàcil prgramar, recopilar, investigar i aprendre), **orientat** a **elements** (permet realitzar projectes estandar i codi reutilitzable), és **segur**, la disctribució de memòria (es divideix en dos, una que s'almatzena i l'altra que s'apila), ofereix **recolecció** automàtica de **basura**, **multiplataforma**, ofereix una **gestio** d'**error**. I **orientat a objectes**.
+
+
+*Llenguatge orientat a objectes* :
+
+La **programació orientada a objectes** (Object Oriented Programming, OOP) és un **model** de programació informàtica que **organitza** el **disseny** de programari **al voltant de dades o objectes**, en comptes de funcions i lògica. Un **objecte** es pot definir com un camp de **dades** que té **atributs** i comportaments únics.
+
+##### exemple 
+
+<img src="https://user-images.githubusercontent.com/113586105/193025869-4089cf9d-c732-4ef4-a645-7a19c8f3fe1e.png" width="500" height="400"/>
+
+##### EXEMPLE CODI
+
+dir hola món:
+
+<img src="https://user-images.githubusercontent.com/113586105/193116784-a10580ea-e27c-45f4-a29a-b34b622b613f.png" width="400" height="170"/>
+
+preguntar pel nom:
+
+<img src="https://user-images.githubusercontent.com/113586105/193118187-32aa024a-d2d4-4cde-95ea-7cac2228f211.png" width="400" height="300"/>
+
+##### OFERTES TREBALL PROGRAMADOR JAVA (INFOJOBS)
+
+Crec que amb el Java he trobat més ofertes que buscant per a Python.
+
+###### BIBLIOTECA
+
+- https://frogames.es/quien-invento-el-lenguaje-java/
+
+- https://www.tokioschool.com/noticias/historia-java-el-origen-de-este-lenguaje-de-programacion/
+
+- https://www.crehana.com/blog/desarrollo-web/ventajas-desventajas-java/
+
+- https://www.computerweekly.com/es/definicion/Programacion-orientada-a-objetos-OOP
+
+- https://adictoalcodigo.blogspot.com/2016/07/ventajas-y-desventajas-de-programar-en.html
+
+- https://es.acervolima.com/ventajas-y-desventajas-de-java/
+
+- https://blog.makeitreal.camp/lenguajes-compilados-e-interpretados/
+
+- https://www.xatakandroid.com/sistema-operativo/google-vs-oracle-que-ocurre-con-java-en-android-y-por-que-la-batalla-legal-ha-vuelto-a-reabrirse
+
+- https://www.infojobs.net/ofertas-trabajo/programador-java?keyword=programador%20java&normalizedJobTitleIds=2512_ij001&provinceIds=&cityIds=&teleworkingIds=&categoryIds=&workdayIds=&educationIds=&segmentId=&contractTypeIds=&page=5&sortBy=RELEVANCE&onlyForeignCountry=false&countryIds=&sinceDate=ANY&subcategoryIds=
+
+-----------------------------------------------------------------------------------------------------------
+
+3. **PHP** :
+
+<img src="https://user-images.githubusercontent.com/113586105/193123194-7c711c33-8a1d-4ff4-ad47-e067b659bb5a.png" width="200" height="170"/>
+
+PHP tal com es coneix avui dia és en realitat el **successor** d'un producte anomenat *PHP/FI*. Creat el **1994** per **Rasmus Lerdorf**, la primera encarnació de PHP era un *conjunt simple de fitxers binaris*. **Prové** del llenguatge *Perl*, que és un llenguatge pensat per a la manipulació de *cadenes de caràcters, arxius i processos*.
+
+###### ALGUNES CARACTERÍSTIQUES
+
+- Gran extensió de documentació.
+- Varietat d'eines per aprendre.
+- Permet programació orientada a objectes.
+- Mòduls externs per millorar l'aplicació web.
+- L'estructura es pot separar.
+- És totalment lliure i multi-plataforma.
+
+És un llenguatge **interpretat**. Té **múltiples** maneres d'**utilitzar**-se, ja que es pot utilitzar amb scripts, de forma estructurada o programació en objectes.
+
+###### NOVETATS
+
+- PHP 8 : 
+
+**Compilador JIT** (que permet compilar parts del codi sobre la marxa, en temps dexecució).
+
+**Operador nullsafe** (soluciona un “problema” molt concret).
+
+**Paràmetres amb nom** (ens permet no haver de seguir un ordre concret a l'hora de passar paràmetres a una funció, simplement li passàvem el nom del paràmetre i el seu valor i amb això n'hi havia prou).
+
+**Match Expression** (expressió similar al switch).
+
+...
+
+
+- Alguns **desavantatges**: mala **calitat** per a la solució dels **errors**, **seguretat** baixa, has d'aprendre treballar amb **frameworks**.
+
+- Alguns **avantatges**: fàcil d'**aprendre** i fer servir, **codi obert**, **ràpid** i segur, soporta gran cantitat de **dades**, permet **automatitzar** tasques i s'adapta al llenguatge **HTML**.
+
+Es pot utilitzar en entorns com Pgpstorm
+
+##### EXEMPLE CODI
+
+dir hola món:
+
+<img src="https://user-images.githubusercontent.com/113586105/193131514-485b091c-c509-4ee1-8a64-3c8fcdcc1137.png" width="400" height="100"/>
+
+preguntar pel nom:
+
+<img src="https://user-images.githubusercontent.com/113586105/193133792-c1db513e-6c7e-42b8-b1ae-11bd8b94e228.png" width="400" height="170"/>
+<img src="https://user-images.githubusercontent.com/113586105/193133890-236479a1-19de-42ba-9a7b-246e1c3a98ee.png" width="400" height="170"/>
+
+##### OFERTES TREBALL PROGRAMADOR PHP (INFOJOBS)
+
+Crec que hi ha menys ofertes que amb Python o Java.
+
+###### BIBLIOTECA
+
+- http://www2.iib.uam.es/bioinfo/curso/perl/tutoriales/cicei/cap1.htm
+- https://www.php.net/manual/es/history.php.php
+- https://victorroblesweb.es/2021/02/09/php-8-novedades-y-mejoras/
+- https://talently.tech/blog/ventajas-de-php/
+
+-----------------------------------------------------------------------------------------------------------
+
+4. **JAVASCRIPT** :
+
+<img src="https://user-images.githubusercontent.com/113586105/193135996-44e70ad4-0609-4681-bf69-cfe8778f9f70.png" width="200" height="170"/>
+
+**Brendan Eich** va escriure la primera versió de JavaScript en només deu dies de maig per del **1995** per encàrrec de Netscape Communications Corporation. Un quart de segle més tard, continua sent una part clau d'Internet.
+
+<img src="https://user-images.githubusercontent.com/113586105/193136494-ac9cd30e-6fa6-451c-893b-0e466335224c.png" width="200" height="170"/>
+
+Es tracta d'un llenguatge **inspirat** en altres llenguatges, especialment en **Java**. Des del 1997, JavaScript és una marca registrada d'**Oracle**.
+
+- És un llenguatge lleuger, interpretat i orientat a objectes amb funcions de primera classe, i més conegut com el llenguatge de programació per a les pàgines web, però també s'utilitza en molts entorns que no són de navegador.
