@@ -25,6 +25,9 @@ Fins a l'any 2018, el desenvolupament d'aquest popular llenguatge de programaci�
 
 - Alguns **avantatges**: **llenguatge sezill** i de **gran potencial**, **biblioteques i frameworks** i és **multiplataforma**.
 
+- Principals entorns on es fa servir : pyCharm.
+
+
 *Framework* :
 Un framework és un marc o esquema de treball. Utilitzar un framework permet agilitzar els processos de desenvolupament ja que evita haver d'escriure codi de forma repetitiva, assegura unes bones pràctiques i la consistència del codi.
 *Biblioteca* :
@@ -85,6 +88,8 @@ Des de llavors fins ara, Java ha passat des de la seva **versió inicial JDK 1.0
 - Alguns **desavantatges**: més **lent**, l'aspecte predeterminat no és el mateix que el de les aplicacions locals, requereix bastant **memòria** i pels **codis complexes**. Al ser un llenguatge **interpretat**, el rendiment en l'execució de programes sol ser una mica menor.
 
 - Alguns **avantatges**: **Senzill** (es fàcil prgramar, recopilar, investigar i aprendre), **orientat** a **elements** (permet realitzar projectes estandar i codi reutilitzable), és **segur**, la disctribució de memòria (es divideix en dos, una que s'almatzena i l'altra que s'apila), ofereix **recolecció** automàtica de **basura**, **multiplataforma**, ofereix una **gestio** d'**error**. I **orientat a objectes**.
+
+- Principals entorns on es fa servir : Netbeans.
 
 
 *Llenguatge orientat a objectes* :
@@ -168,7 +173,7 @@ PHP tal com es coneix avui dia és en realitat el **successor** d'un producte an
 
 - Alguns **avantatges**: fàcil d'**aprendre** i fer servir, **codi obert**, **ràpid** i segur, soporta gran cantitat de **dades**, permet **automatitzar** tasques i s'adapta al llenguatge **HTML**.
 
-Es pot utilitzar en entorns com Pgpstorm
+- Es pot utilitzar en entorns com Pgpstorm.
 
 ##### EXEMPLE CODI
 
@@ -226,6 +231,9 @@ Es tracta d'un llenguatge **inspirat** en altres llenguatges, especialment en **
 - Alguns **desavantatges**: Al FrontEnd els seus **codis** són **visibles**, per tant poden ser llegits per qualsevol usuari. **No** és **compatible** a tots els **navegadors** de manera uniforme. Els usuaris tenen l'**opció** de **desactivar** JavaScript des del vostre navegador. Els seus **scripts** són **limitats** per raons de seguretat.
 
 - Alguns **avantatges**: velocitat, simplicitat, popularitat, compabilitat, interfícies senzilles, multiplataforma...
+
+- Principals entorns on es fa servir : qualsevol editor de text, el codi de JavaScript s'executa als navegadors.
+
 
 ##### EXEMPLE CODI
 
