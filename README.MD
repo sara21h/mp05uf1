@@ -99,11 +99,12 @@ La **programació orientada a objectes** (Object Oriented Programming, OOP) és 
 
 dir hola món:
 
-<img src="https://user-images.githubusercontent.com/113586105/193116784-a10580ea-e27c-45f4-a29a-b34b622b613f.png" width="400" height="170"/>
+![image](https://user-images.githubusercontent.com/113586105/193141000-6fd04d76-0f83-4639-9c41-5f7f2540928c.png)
 
 preguntar pel nom:
 
-<img src="https://user-images.githubusercontent.com/113586105/193118187-32aa024a-d2d4-4cde-95ea-7cac2228f211.png" width="400" height="300"/>
+![image](https://user-images.githubusercontent.com/113586105/193141051-bda92b3e-1e6e-46ea-8432-407da5a79444.png)
+
 
 ##### OFERTES TREBALL PROGRAMADOR JAVA (INFOJOBS)
 
@@ -173,12 +174,14 @@ Es pot utilitzar en entorns com Pgpstorm
 
 dir hola món:
 
-<img src="https://user-images.githubusercontent.com/113586105/193131514-485b091c-c509-4ee1-8a64-3c8fcdcc1137.png" width="400" height="100"/>
+![image](https://user-images.githubusercontent.com/113586105/193140658-0791dea9-830d-4ef2-9da5-60140d7750f3.png)
 
 preguntar pel nom:
 
-<img src="https://user-images.githubusercontent.com/113586105/193133792-c1db513e-6c7e-42b8-b1ae-11bd8b94e228.png" width="400" height="170"/>
-<img src="https://user-images.githubusercontent.com/113586105/193133890-236479a1-19de-42ba-9a7b-246e1c3a98ee.png" width="400" height="170"/>
+![image](https://user-images.githubusercontent.com/113586105/193140815-8abc875c-1663-470d-af5f-b8ac0c1f51d6.png)
+
+![image](https://user-images.githubusercontent.com/113586105/193140848-a3b82667-3ee5-49ea-b2fc-07399520413f.png)
+
 
 ##### OFERTES TREBALL PROGRAMADOR PHP (INFOJOBS)
 
@@ -203,4 +206,65 @@ Crec que hi ha menys ofertes que amb Python o Java.
 
 Es tracta d'un llenguatge **inspirat** en altres llenguatges, especialment en **Java**. Des del 1997, JavaScript és una marca registrada d'**Oracle**.
 
-- És un llenguatge lleuger, interpretat i orientat a objectes amb funcions de primera classe, i més conegut com el llenguatge de programació per a les pàgines web, però també s'utilitza en molts entorns que no són de navegador.
+- És un llenguatge **lleuger**, **interpretat** i **orientat a objectes** amb **funcions** de **primera classe**, i més conegut com el llenguatge de **programació** per a les **pàgines web**, però també s'utilitza en molts **entorns** que no són de **navegador**.
+
+###### NOVETATS
+
+- Ecmascript 2022 : 
+
+**Await a nivel superior**.
+
+**Object.hasOwn()** (comprova si una propietat està inclosa dins un objecte o existeix dins l'objecte).
+
+**Propiedades y métodos privados en ES2022** (ara podrem crear atributs i mètodes privats a les nostres classes).
+
+**error.cause** (aquesta novetat ens permet especificar que va causar un error).
+
+...
+
+
+- Alguns **desavantatges**: Al FrontEnd els seus **codis** són **visibles**, per tant poden ser llegits per qualsevol usuari. **No** és **compatible** a tots els **navegadors** de manera uniforme. Els usuaris tenen l'**opció** de **desactivar** JavaScript des del vostre navegador. Els seus **scripts** són **limitats** per raons de seguretat.
+
+- Alguns **avantatges**: velocitat, simplicitat, popularitat, compabilitat, interfícies senzilles, multiplataforma...
+
+##### EXEMPLE CODI
+
+dir hola món:
+
+![image](https://user-images.githubusercontent.com/113586105/193140265-acc6c41f-15c0-4b04-aaf2-263f1f80138d.png)
+
+preguntar pel nom:
+
+![image](https://user-images.githubusercontent.com/113586105/193142701-04e3ee35-d064-4071-a5b4-6ab4cf0d09ec.png)
+
+
+##### OFERTES TREBALL PROGRAMADOR PHP (INFOJOBS)
+
+Aquí tambè veig menos que a les dues primeres.
+
+###### BIBLIOTECA
+
+- https://www.wildcodeschool.com/es-ES/blog/diferencia-entre-java-vs-javascript
+
+- https://developer.mozilla.org/es/docs/Web/JavaScript/About_JavaScript
+
+- https://victorroblesweb.es/2022/04/26/javascript-es2022-novedades-y-mejoras-del-lenguaje-de-frontend-mas-usado/
+
+- https://www.freecodecamp.org/espanol/news/ventajas-y-desventajas-de-javascript/
+
+- https://www.nextu.com/blog/conoce-las-ventajas-y-desventajas-de-javascript/
+
+- https://www.infojobs.net/ofertas-trabajo/javascript?keyword=javascript&normalizedJobTitleIds=&provinceIds=&cityIds=&teleworkingIds=&categoryIds=&workdayIds=&educationIds=&segmentId=&contractTypeIds=&page=3&sortBy=RELEVANCE&onlyForeignCountry=false&countryIds=&sinceDate=ANY&subcategoryIds=
+
+###### BIBLIOTECA (pel treball en general)
+
+- He utilitzat un compilador online per a comprovar els codis (https://www.programiz.com/python-programming/online-compiler/)
+
+- https://markdown.es/
+
+- https://steemit.com/spanish/@lilttlejoel/la-ultima-guia-para-alineacion-de-imagen-y-links-en-markdown-conviertete-en-un-profesional-ahora-con-estos-sencillos-consejos
+
+- https://www.wake-up-neo.net/es/image/cambio-de-tamano-de-imagen-en-markdown/1071362789/
+
+- https://paiza.io/projects/7lSs-Umm9kOy5-G-ONMv8A
+
