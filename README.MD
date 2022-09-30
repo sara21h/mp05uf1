@@ -2,8 +2,9 @@
 ## activitats
 
 1. **PYTHON** :
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Python_logo_and_wordmark.svg/2560px-Python_logo_and_wordmark.svg.png" width="400" height="100"/>
+<p align ="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Python_logo_and_wordmark.svg/2560px-Python_logo_and_wordmark.svg.png" width="400" height="100"/>
+</p>
 
 - És un llenguatge de programació de **propòsit general**, pot ser usat per a gairebé tot. És un llenguatge **interpretat**, no es tradueix tot de cop i s’executa directament el codi màquina sinó que l’intèrpret (un altre programa) s’encarrega d’anar executant indirectament el codi instrucció per instrucció.
 
