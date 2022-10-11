@@ -136,7 +136,7 @@ Això és el resultat
 ##### BIBLIOGRAFIA
 https://vitux.com/how-to-write-and-run-a-c-program-in-linux/
 https://itsfoss.com/run-c-program-linux/
-https://linuxhint.com/rand-function-in-c-language/ (exemples de ranomcommand
+https://linuxhint.com/rand-function-in-c-language/ 
 https://www.geeksforgeeks.org/generating-random-number-range-c/
 
 
