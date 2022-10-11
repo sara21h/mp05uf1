@@ -14,6 +14,7 @@ No es tradueix tot de cop i s’executa directament el codi màquina sinó que l
 Descarguem el ruby.
 
 ![image](https://user-images.githubusercontent.com/113586105/195207967-b1536e2d-9031-4435-9e2d-18ff12a64670.png)
+
 Aquí hem mirat la versió.
 
 ![image](https://user-images.githubusercontent.com/113586105/195208045-40b66cf9-e960-4f41-a724-1c4953b109f2.png)
