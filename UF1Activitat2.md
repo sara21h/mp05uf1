@@ -64,21 +64,24 @@ https://apuntes.de/ruby/la-linea-de-comandos/#gsc.tab=0
 https://www.ecured.cu/Lenguaje_interpretado#Ventajas
 https://programacion.net/articulo/los_5_mejores_ides_para_ruby_on_rails_1077
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
 # LLENGUATGE COMPILAT
 
 ## C
 
 El compilador no és més que un traductor entre el llenguatge d’alt nivell i el codi màquina, entre el que entenen les persones i el que entén la CPU.
 
-### Avantatges
-- **Multiplataforma:** el llenguatge C pot ser executat en qualsevol tipus de programari o maquinari.
-- **Ús de llenguatge eficient:** Utilitza llenguatge compilat i s’acobla de manera efectiva amb el llenguatge assemblador, així com també és el que millor aprofita la CPU de la màquina.
-- **Alt nivell d’exercici:** el primer que has de saber sobre el llenguatge C és que es molt eficient per fer trucades directes al sistema operatiu.
-- **Té ús eficient** de la memòria i compta am **funcions i variables estàtiques**
-### Desavantatges
-- **Llenguatge incomplet:** no té prou operadors per fer més abstracta la traducció del sistema. No té un llenguatge visual, per lo que impedeix que es pugui deduir intuïtivament.
-- **Manca de funcions:** no té alliberament de memòria automàtica, lo que significa que ho hauràs de fer manualment. No tè suport per a la programaciò orientada a objectes.
-- **No permet checking a temps d’execució:** el llenguatge C mostra el error després d’haver compilats estos, en lloc de fer-ho en temps d’execució.
+### Avantatges:
+
+Els llenguatges compilats es converteixen directament en codi màquina que el processador pot executar. Per això solen ser més ràpids i eficients d'executar que els llenguatges interpretats. A més, ofereixen al desenvolupador un control més gran sobre els aspectes del maquinari, com la gestió de la memòria i l'ús de la CPU.
+
+### Desavantatges:
+
+Cada canvi necessita una recompilació
+Depuració més difícil
+No és multiplataforma
+Requereix memòria extra
 
 ### IDE PER A DESARROLLADORES DE C
 
@@ -140,35 +143,39 @@ https://linuxhint.com/rand-function-in-c-language/
 https://www.geeksforgeeks.org/generating-random-number-range-c/
 
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+# LLENGUATGE MV
+
+## PYTHON
 
 
-
-
-
-
-
-
-
-
-
+![image](https://user-images.githubusercontent.com/113586105/195210666-09f56db2-3c61-41cf-a83e-87462c25f23f.png)
 
 Aquí hem instal·lat el python3.
+
+![image](https://user-images.githubusercontent.com/113586105/195210707-26f219e8-d347-47a1-97bd-6dc5fb313b6a.png)
 
 Amb el touch creem un fitxer.
 EL “chmod +x” és per a passar de codi font a codi executable.
 
+![image](https://user-images.githubusercontent.com/113586105/195210751-cfa3af00-e8a5-43ea-b06b-ef1972bb84d1.png)
 
 Aquest és el codi.
 
+![image](https://user-images.githubusercontent.com/113586105/195210790-cea5df3b-ac06-4586-9d4f-29b4d7925f88.png)
 
 El resultat.
 Python3 és per a mostrar el resultat.
 
 A bytecode:
 
+![image](https://user-images.githubusercontent.com/113586105/195210828-0e080b0e-c5ee-4a21-a061-22fdc590cab9.png)
 
 el nom de l’executable és .py.
 el comando és python -m (he posat 3 perquè m’he descarregat el 3)
+
+![image](https://user-images.githubusercontent.com/113586105/195210873-acc4ad78-08c3-4d9b-a115-33f8577fa711.png)
 
 (no puc obrir-ho però és el bytecode).
 
