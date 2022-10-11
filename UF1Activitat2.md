@@ -79,9 +79,13 @@ Els llenguatges compilats es converteixen directament en codi màquina que el pr
 ### Desavantatges:
 
 Cada canvi necessita una recompilació
+
 Depuració més difícil
+
 No és multiplataforma
+
 Requereix memòria extra
+
 
 ### IDE PER A DESARROLLADORES DE C
 
