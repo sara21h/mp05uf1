@@ -74,7 +74,7 @@ Jo he trobat bastantes ofertes com a programador de python y bastantes noves. Un
 
 <img src="https://user-images.githubusercontent.com/113586105/193111693-56dc289b-4a0a-4ccb-ac44-a71f991e1e1d.png" width="200" height="100"/>
 
-- És **interpretat**. És particular perquè és compilat a un llenguatge intermedi anomenat bytecode, que després és interpretat. Ja que ells volien crear un llenguatge compilat però que es pogués executar a qualsevol sistema operatiu i processador sense necessitat de crear diversos executables.
+- Utilitza màquina virtual. És particular perquè és compilat a un llenguatge intermedi anomenat bytecode, que després és interpretat. Ja que ells volien crear un llenguatge compilat però que es pogués executar a qualsevol sistema operatiu i processador sense necessitat de crear diversos executables.
 
 - L'equip original de l'empresa estava format per James Gosling, Eric Schmidt, John Gaga, Patrick Naughton i Wayne Rosing.
 
