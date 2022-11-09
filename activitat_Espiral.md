@@ -24,10 +24,12 @@ Fase 4: planificació del cicle següent.
 
 
 
-##### Avantatges: Flexible davant canvis, sense perdre estabilitat. L'estimació és més certera, a diferència de metodologies com el Scrum. La planificació de costos i pressupost es torna fàcil. El sistema permet que el client pugui intervenir en certes fases de la espiral.
+##### Avantatges:
+Flexible davant canvis, sense perdre estabilitat. L'estimació és més certera, a diferència de metodologies com el Scrum. La planificació de costos i pressupost es torna fàcil. El sistema permet que el client pugui intervenir en certes fases de la espiral.
 El procés genera fluïdesa i agilitat, ja que s’aprèn lo executat en la etapa anterior i quan el cicle comença novament, les tasques ja executades es passen amb major rapidessa.
 
-##### Desavantatges: No és recomanable en projectes de curt termini, ja que requereix d’un expert en maneig de riscs. No pot trencar-se l’ordre de la espiral per a que la tecnica funcioni bé. Requereix de registrar
+##### Desavantatges: 
+No és recomanable en projectes de curt termini, ja que requereix d’un expert en maneig de riscs. No pot trencar-se l’ordre de la espiral per a que la tecnica funcioni bé. Requereix de registrar
 
 
 
