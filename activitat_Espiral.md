@@ -2,8 +2,8 @@
 
 
 
-Quines persones intervenen S
-el equipo y el cliente
+##### Quines persones intervenen?
+El equip i el client.
 
 ## QUÈ ÉS I CREACIÓ
 
@@ -21,6 +21,7 @@ Fase 3: desenvolupament i revisió del resultat intermedi.
 Fase 4: planificació del cicle següent. 
 
 
+![image](https://user-images.githubusercontent.com/113586105/200807990-22331ead-e27d-468e-907e-4c9e574423ab.png)
 
 
 
@@ -32,7 +33,7 @@ El procés genera fluïdesa i agilitat, ja que s’aprèn lo executat en la etap
 No és recomanable en projectes de curt termini, ja que requereix d’un expert en maneig de riscs. No pot trencar-se l’ordre de la espiral per a que la tecnica funcioni bé. Requereix de registrar
 
 
-
+![image](https://user-images.githubusercontent.com/113586105/200809765-8a804ce5-4ed4-4d1b-9c8b-94f3cfd5010f.png)
 
 
 ## Funcionament
