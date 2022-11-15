@@ -87,4 +87,65 @@ https://blog.educacionit.com/2014/01/16/eclipse-ide-principales-carateristicas/
  
  ------------------------------------------------------------------------------------------------------------------------------------------------
  
- 3. NetBeans
+ 3. NETBEANS
+
+Està **disponible** a Linux, Mac, Solaris i Windows. 
+
+##### Instal·lació
+
+Instruccions:
+**Windows**: Haurem d'executar l'instal·lador que podem trobar a la web https://netbeans.apache.org/download/index.html
+**Linux**: Seguint les instruccions: sudo apt install netbeans - Aquesta forma d'instal·lar NetBeans té sovint versions més antigues.
+La forma d'instal·lar les noves versions és utilizant el gestor de paquets Snap: sudo snap install netbeans --classic
+Mac: Com a Windows, hi ha disponible un instal·lador a la web.
+
+L'últim dels tres grans IDE de Java és NetBeans. NetBeans és l'IDE oficial per a Java 8. A més d'estar disponible per a diverses plataformes, NetBeans també es presenta en una versió independent del sistema operatiu amb funcions limitades. Cada nova versió de NetBeans compta amb un editor de Java millorat i reelaborat.
+Ressaltant el codi Java de manera sintàctica i semàntica, facilita als programadors de Java la creació d'aplicacions de software personalitzades. Les eines integrades a NetBeans permeten refactoritzar i escriure codi sense errors.
+
+##### Característiques úniques:
+
+Es pot crear, depurar, implementar i provar aplicacions directament des de NetBeans. 
+Hi ha la possibilitat d'escriure codi similar al mateix temps gràcies a les seves fantàstiques eines de comparació de codi, que, en comparació de l'IntelliJ Ultimate, és gratis.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------
+
+4. BLUEJ
+
+És un entorn de desenvolupament Java dissenyat específicament per a l'ensenyament a nivell introductori. Ha estat dissenyat i implementat per l'equip BlueJ a la Deakin University.
+
+És **multiplataforma** i compta amb una gran documentació que ho fa especialment indicat per a estudiants
+
+##### Instal·lació
+
+###### windows 
+
+![image](https://user-images.githubusercontent.com/113586105/202028083-89c49e1d-57d0-42d4-b3d8-e687e6b5437b.png)
+
+###### ubuntu
+
+![image](https://user-images.githubusercontent.com/113586105/202027987-1cb14aeb-21b7-4b21-b06a-ef3a621db4fe.png)
+
+##### Característiques
+
+Una de les característiques fonamentals de BlueJ és que no només es pot executar una aplicació completa, sinó que també es pot interactuar amb objectes aïllats de qualsevol classe i executar els seus mètodes públics.
+
+Bluej està desenvolupat 100% sobre Java, el que ho fa multiplataforma i entre les seves característiques més cridaneres està, utilitzar molt pocs recursos de la màquina.
+
+La seva característica més rellevant és un sistema semblant a l'UML que ens modela de manera gràfica el comportament i les relacions que hi ha entre classes.
+- Ambient completament integrat.
+- Visualització Gràfica de lestructura de les classes.
+- Edició gràfica i textual.
+- Built-in editor, compilador, màquina virtual, depurador.
+- Interfície fàcil de fer servir, ideal per a principiants.
+- Trucades i creació dobjectes interactiva.
+
+###### WEBGRAFIA
+
+https://www.bluej.org/tutorial/tutorial-spanish-201.pdf
+
+https://ifgeekthen.nttdata.com/es/los-ide-mas-usados-en-programacion-java
+
+-------------------------------------------------------------------------------------------------------------------------------------------------
+
+5. JDEVELOPER
+
