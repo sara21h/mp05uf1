@@ -94,9 +94,19 @@ Està **disponible** a Linux, Mac, Solaris i Windows.
 ##### Instal·lació
 
 Instruccions:
-**Windows**: Haurem d'executar l'instal·lador que podem trobar a la web https://netbeans.apache.org/download/index.html
-**Linux**: Seguint les instruccions: sudo apt install netbeans - Aquesta forma d'instal·lar NetBeans té sovint versions més antigues.
-La forma d'instal·lar les noves versions és utilizant el gestor de paquets Snap: sudo snap install netbeans --classic
+**Windows**: 
+
+Haurem d'executar l'instal·lador que podem trobar a la web https://netbeans.apache.org/download/index.html.
+
+**Linux**: 
+
+Seguint les instruccions: 
+**sudo apt install netbeans**
+
+Aquesta forma d'instal·lar NetBeans té sovint versions més antigues.
+La forma d'instal·lar les noves versions és utilizant el gestor de paquets Snap: **sudo snap install netbeans --classic**
+
+
 Mac: Com a Windows, hi ha disponible un instal·lador a la web.
 
 L'últim dels tres grans IDE de Java és NetBeans. NetBeans és l'IDE oficial per a Java 8. A més d'estar disponible per a diverses plataformes, NetBeans també es presenta en una versió independent del sistema operatiu amb funcions limitades. Cada nova versió de NetBeans compta amb un editor de Java millorat i reelaborat.
@@ -148,4 +158,77 @@ https://ifgeekthen.nttdata.com/es/los-ide-mas-usados-en-programacion-java
 -------------------------------------------------------------------------------------------------------------------------------------------------
 
 5. JDEVELOPER
+
+#### Característiques úniques:
+
+JDeveloper és un IDE gratuït d'Oracle que ofereix moltes característiques i eines de desenvolupament visual. Cobreix tot el cicle de vida del desenvolupament, la codificació, el disseny, la depuració, l'optimització, la creació de perfils i el desplegament. A més de Java, JDeveloper també es pot utilitzar per desenvolupar aplicacions en HTML, JavaScript, PHP, SQL i XML.
+
+A més, ofereix funcions de depuració robustes que permeten als usuaris examinar fàcilment les regles d'auditoria i solucionar immediatament els problemes.
+
+Oracle JDeveloper es pot integrar amb Oracle Application Development Framework (Oracle ADF) per simplificar encara més el desenvolupament d'aplicacions. 
+JDeveloper inclou un fantàstic entorn de desenvolupament web amb capacitat de drag and drop que facilita el disseny d'aplicacions.
+
+**Multiplataforma**: JDeveloper és compatible amb sistemes operatius com Linux, Windows i macOS. 
+
+##### Instal·lació
+
+###### ubuntu 
+
+Després de descarregar el fitxer bin, des d' aquí el farem executable via:
+
+chmod +x jdevstudio11117install.bin
+Després, Instal·lem una llibreria i386
+
+sudo apt-get install libxtst6:i386
+
+Ara iniciem la instal·lació
+
+./jdevstudio11117install.bin
+
+Per defecte, el programari serà instal·lat a
+
+~/Oracle/Middleware/jdeveloper
+
+Començar
+
+Com que no hi ha cap fitxer d'escriptori instal·lat, podeu començar mitjançant
+
+~/Oracle/Middleware/jdeveloper/jdev/bin/jdev
+
+Creem un fitxer a l'escriptori
+
+Creem el fitxer jdeveloper.desktop
+
+nano ~/.local/share/applications/jdeveloper.desktop
+Substituim $USER pel nostre nom d'usuari, la sortida de "echo $USER":
+
+[Desktop Entry]
+Encoding=UTF-8
+Version=1.0
+Type=Application
+Name=JDeveloper 11g
+Comment=JDeveloper 11g Integrated Development Environment
+Icon= La icona que vulguem
+Exec=/home/$USER/Oracle/Middleware/jdeveloper/jdev/bin/jdev
+StartupNotify=true
+StartupWMClass=JDeveloper
+Comenceu amb el vostre Launcher, escriviu "JDev"
+
+###### Mac:
+A Mac haurem de descarregar el .bin i escriure /home/Oracle/Java/jdk1.8.0_131/bin/java —jar fmw_12.2.1.3.0_jdev_suite_generic.jar en cas d'utilitzar l'instalador genèric. Per l'específic seria:
+./jdev_suite_122130_mac64.bin
+
+
+![image](https://user-images.githubusercontent.com/113586105/202030521-fdc5d734-4559-445b-8af3-f1e301444a30.png)
+
+###### windows 
+
+Windows: A Windows tenim la seva web https://www.oracle.com/tools/downloads/jdeveloper-12c-downloads.html a on podem descarregar el seu instal·lador i només haurem de seguir l'assistent.
+
+http://itecoracle.blogspot.com/p/how-to-install-oracle-jdeveloper-12c-on.html
+
+
+###### WEBGRAFIA
+
+https://subscription.packtpub.com/book/application-development/9781849684767/1/ch01lvl1sec02/installation-of-jdeveloper-on-linux
 
