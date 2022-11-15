@@ -109,7 +109,7 @@ La forma d'instal·lar les noves versions és utilizant el gestor de paquets Sna
 
 Mac: Com a Windows, hi ha disponible un instal·lador a la web.
 
-L'últim dels tres grans IDE de Java és NetBeans. NetBeans és l'IDE oficial per a Java 8. A més d'estar disponible per a diverses plataformes, NetBeans també es presenta en una versió independent del sistema operatiu amb funcions limitades. Cada nova versió de NetBeans compta amb un editor de Java millorat i reelaborat.
+NetBeans és l'IDE oficial per a Java 8. A més d'estar disponible per a diverses plataformes, NetBeans també es presenta en una versió independent del sistema operatiu amb funcions limitades. Cada nova versió de NetBeans compta amb un editor de Java millorat i reelaborat.
 Ressaltant el codi Java de manera sintàctica i semàntica, facilita als programadors de Java la creació d'aplicacions de software personalitzades. Les eines integrades a NetBeans permeten refactoritzar i escriure codi sense errors.
 
 ##### Característiques úniques:
