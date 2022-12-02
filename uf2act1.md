@@ -65,19 +65,30 @@ CC = 2 + 1 = 3
 ![Captura de pantalla de 2022-11-30 10-07-48](https://user-images.githubusercontent.com/113586105/204754044-e49aee8b-3056-4209-a62a-6ce55e05b2ea.png)
 
 CC = 
+
 N.BRANQUES = 15
+
 N. NODES= 13
+
 15 - 13 + 2 = 4
 
 Proves camins:
 
-1 --> Temperatura < 0 = roba d'esquiar
+1 --> Temperatura < 0 = Roba d'esquiar
+
+Temperatura -5º = roba d'estiu
 
 2 --> Temperatura > 0, Temperatura < 10 = Roba de muntanya
 
+Temperatura 5º = roba de muntanya
+
 3 --> Temperatura > 0, Temperatura > 10, Temperatura < 20 = Roba d'hivern
 
+Temperatura 15º = roba d'hivern
+
 4 --> Temperatura > 0, Temperatura > 10, Temperatura > 20, Temperatura < 30 = Roba d'estiu
+
+Temperatura 27º = roba d'estiu 
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -86,7 +97,47 @@ Proves camins:
 
 ![Captura de pantalla de 2022-11-30 10-51-56](https://user-images.githubusercontent.com/113586105/204764257-f823d2a6-2502-43ae-8cea-1e77fb3772a9.png)
 
+CC =
+
+N.BRANQUES = 6
+
+N. NODES= 6
+
+6 - 6 + 2 = 2
+
+Proves camins:
+
+1 --> Llums = false, Return llums
+
+2 -->  Llums = false, Hora <= 8 || Hora >= 20, Llums = true
+
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ###### ACTIVITAT 5:
 
+**Caixa negra**
+
+En el camp de les proves de programari, hi ha alguns mètodes que es fan servir amb l'objectiu de trobar defectes i avaluar la qualitat del producte. Dos daquests mètodes són caixa blanca i caixa negra, white-box testing and black-box testing.
+
+###### Caixa blanca
+
+És el qual mira el codi i l'estructura del producte que es provarà i utilitza aquest coneixement per a la realització de les proves.
+
+Per a l'execució d'aquest mètode cal que el tester o la persona que hagi de fer servir el mètode tinguin amplis coneixements de la tecnologia i l'arquitectura usada per desenvolupar el programa.
+
+![image](https://user-images.githubusercontent.com/113586105/205248218-30408a23-46dc-48e3-94b4-f15deb9b63a3.png)
+
+###### Caixa negra
+
+És el mètode en què l'element és estudiat des del punt de vista de les entrades que rep i les sortides o respostes que produeix, sense tenir-ne en compte el funcionament intern. Aquestes proves són realitzades des de la interfície gràfica.
+
+![image](https://user-images.githubusercontent.com/113586105/205248366-91591a16-821e-48f5-a625-007740bae67e.png)
+
+Per exemple:
+
+**Caixa negra** testing seria el qual una persona faria abans de comprar un cotxe, encendre els llums, encendre el motor entre altres proves (Sense necessitat de saber com funciona el cotxe per dins)
+
+i 
+
+Realitzar proves de tipus **caixa blanca** seria la tècnica que fa servir un mecànic quan portes el teu cotxe al mecànic i ha de buscar una avaria.
