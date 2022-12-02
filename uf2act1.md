@@ -137,8 +137,7 @@ Per a l'execució d'aquest mètode cal que el tester o la persona que hagi de fe
 
 Per exemple:
 
-**Caixa negra** testing seria el qual una persona faria abans de comprar un cotxe, encendre els llums, encendre el motor entre altres proves (Sense necessitat de saber com funciona el cotxe per dins)
+- **Caixa negra** testing seria el qual una persona faria abans de comprar un cotxe, encendre els llums, encendre el motor entre altres proves (Sense necessitat de saber com funciona el cotxe per dins)
 
-i 
 
-Realitzar proves de tipus **caixa blanca** seria la tècnica que fa servir un mecànic quan portes el teu cotxe al mecànic i ha de buscar una avaria.
+- Realitzar proves de tipus **caixa blanca** seria la tècnica que fa servir un mecànic quan portes el teu cotxe al mecànic i ha de buscar una avaria.
