@@ -7,7 +7,7 @@ Calculem CC:
 
 ##### Complexitat ciclomàtica = nombre de branques – nombre de nodes + 2
 
-###### Per saber quantes proves hem de fer.
+##### Per saber quantes proves hem de fer.
 
 **1**
 
