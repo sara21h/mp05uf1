@@ -4,11 +4,15 @@
 
 Calculem CC:
 
-1.
+
+##### Complexitat ciclomàtica = nombre de branques – nombre de nodes + 2
+
+###### Per saber quantes proves hem de fer.
+
+**1**
 
 ![image](https://user-images.githubusercontent.com/113586105/204755853-198767a8-174a-418b-a46e-b877ae8cc2e0.png)
 
-##### Complexitat ciclomàtica = nombre de branques – nombre de nodes + 2
 
 ###### N. BRANQUES: 16
 
@@ -16,11 +20,8 @@ Calculem CC:
 
 ###### 16 - 14 + 2 = 4
 
-###### Per saber quantes proves hem de fer.
 
-Farem:
-
-2.
+**2**
 
 ![image](https://user-images.githubusercontent.com/113586105/205242455-7d7be27a-d094-4700-8c86-637f161f0e7a.png)
 
@@ -31,7 +32,7 @@ Farem:
 
 ###### 16 - 14 + 2 = 4
 
-3.
+**3**
 
 ![image](https://user-images.githubusercontent.com/113586105/205242595-c92f54fa-27a8-4e3f-a668-4f08dd652933.png)
 
@@ -76,7 +77,7 @@ Proves camins:
 
 1 --> Temperatura < 0 = Roba d'esquiar
 
-Temperatura -5º = roba d'estiu
+Temperatura -5º = roba d'esquiar
 
 2 --> Temperatura > 0, Temperatura < 10 = Roba de muntanya
 
