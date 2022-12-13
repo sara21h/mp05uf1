@@ -18,4 +18,9 @@
 
 ![image](https://user-images.githubusercontent.com/113586105/206127457-89571d32-b3b6-4397-aab2-2b1dab6b5e86.png)
 
+![image](https://user-images.githubusercontent.com/113586105/207321716-faf67002-bdd9-419c-9a1d-3d5bdb6f514b.png)
 
+
+-----------------------------------------------------------------------------------------------------------------------------
+
+#### control de temperatura
