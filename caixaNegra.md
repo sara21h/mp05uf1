@@ -26,3 +26,15 @@
 #### control de temperatura
 
 ![image](https://user-images.githubusercontent.com/113586105/210231555-e1577c14-6830-4d4c-99bb-11b5b27a5a57.png)
+
+![image](https://user-images.githubusercontent.com/113586105/210282996-a43f629b-b7b1-4208-9d39-288de54d3a8d.png)
+
+----------------------------------------------------------------------------------------------------------------------------
+
+### ACTIVITATS DEBUG
+
+
+#### factorial
+
+![image](https://user-images.githubusercontent.com/113586105/210283213-8d91efe7-2c7b-4205-acc4-97f5295f78bf.png)
+
