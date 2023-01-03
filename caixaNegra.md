@@ -45,3 +45,9 @@
 
 ![image](https://user-images.githubusercontent.com/113586105/210453860-80e815ac-192a-405c-a4c1-143771c891ae.png)
 
+----------------------------------------------------------------------------------------------------------------------------
+
+#### taula de multiplicar
+
+![image](https://user-images.githubusercontent.com/113586105/210454111-90465b27-7937-4555-b740-ffff72601b65.png)
+
