@@ -29,7 +29,7 @@
 
 ![image](https://user-images.githubusercontent.com/113586105/210284281-e9e49e3b-9943-4831-87ee-fa7b66071a07.png)
 
-![image](https://user-images.githubusercontent.com/113586105/210437162-52ab19b3-125a-4a84-a3a6-0fa99cd84782.png)
+![image](https://user-images.githubusercontent.com/113586105/210450215-43b4389e-133c-47c6-9259-34aff061105f.png)
 
 
 ----------------------------------------------------------------------------------------------------------------------------
@@ -40,4 +40,8 @@
 #### factorial
 
 ![image](https://user-images.githubusercontent.com/113586105/210283213-8d91efe7-2c7b-4205-acc4-97f5295f78bf.png)
+
+![image](https://user-images.githubusercontent.com/113586105/210453538-612e0972-e13b-4bcb-b328-d4a244779a66.png)
+
+![image](https://user-images.githubusercontent.com/113586105/210453860-80e815ac-192a-405c-a4c1-143771c891ae.png)
 
