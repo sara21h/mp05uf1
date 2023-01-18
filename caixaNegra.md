@@ -47,8 +47,27 @@
 
 ----------------------------------------------------------------------------------------------------------------------------
 
-#### taula de multiplicar
+#### taula de multiplicar 
+
 
 ![image](https://user-images.githubusercontent.com/113586105/210454111-90465b27-7937-4555-b740-ffff72601b65.png)
 
-![image](https://user-images.githubusercontent.com/113586105/212886880-fb032cb3-701c-4649-b29d-df7fedb432cb.png)
+codi
+
+![image](https://user-images.githubusercontent.com/113586105/213136445-0b45dcf7-65fe-4f01-9c70-a8e8e82b2f02.png)
+
+captura amb un punt d'interrupció
+
+![image](https://user-images.githubusercontent.com/113586105/213137905-44edc9f9-82f4-4b4a-a386-69227e6a5fcf.png)
+
+captura amb punt d'interrupció a la multiplicació
+
+![image](https://user-images.githubusercontent.com/113586105/213138023-ad0da7fa-8eee-4824-91e0-5b4ecee645eb.png)
+
+per a canviar el número 
+
+![image](https://user-images.githubusercontent.com/113586105/213139102-48e5444c-c0e7-483a-9746-191eba37c719.png)
+
+
+
+
