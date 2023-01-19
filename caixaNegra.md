@@ -64,7 +64,7 @@ captura amb punt d'interrupció a la multiplicació
 
 ![image](https://user-images.githubusercontent.com/113586105/213138023-ad0da7fa-8eee-4824-91e0-5b4ecee645eb.png)
 
-per a canviar el número 
+per a canviar el número set value
 
 ![image](https://user-images.githubusercontent.com/113586105/213139102-48e5444c-c0e7-483a-9746-191eba37c719.png)
 
