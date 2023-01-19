@@ -68,6 +68,7 @@ per a canviar el número set value
 
 ![image](https://user-images.githubusercontent.com/113586105/213139102-48e5444c-c0e7-483a-9746-191eba37c719.png)
 
+![image](https://user-images.githubusercontent.com/113586105/213399314-6eda458d-a0b4-4bd9-8c05-4cd552b941db.png)
 
 
 
