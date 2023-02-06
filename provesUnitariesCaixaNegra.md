@@ -1,3 +1,0 @@
-### ACTIVITATS DEPURADOR
-
-#####
