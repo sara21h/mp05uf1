@@ -34,27 +34,37 @@ https://coggle.it/diagram/YOh6RT9R20mO9xhV/t/versiones-uml
 
 Rational Rose és una eina de disseny orientada a objectes, dona soport al modelatge visual (permet representar gràficament el sistema).
 
-funcionava sobre frameworks de desenvolupament com 
+funcionava sobre frameworks de desenvolupament com MVS.
+
 *exemple*
 
 ![image](https://user-images.githubusercontent.com/113586105/222073351-46e4da01-ae09-438a-8e68-2e4c882ce112.png)
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ##### 4. **Relació** entre Rational Rose amb UML?
 
 Rational Rose utilitza UML per modelar software.
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
 
----
+##### 5. Quan va ser publicada UML per la **Internation Organization for Standardization(ISO)**?
 
-va ser publicada per la iso l'any 2003
+La 1.4.2 va ser publicada per la iso l'any 2005.
 
---
+---------------------------------------------------------------------------------------------------------------------------------------------------------
 
-estandaritzar el object model en totes les seves formes
+##### 6. Què vol dir **OMG**?
 
---
+Estandaritzar el object model en totes les seves formes.
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+##### 7. **Relació** entre Rational Rose amb UML?
 
 ong és responsable de contindre UML
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ##### ACTIVITATS DIAGRAMES CLASSE
 
@@ -62,7 +72,7 @@ ong és responsable de contindre UML
 
 1. persona
 
-![image](https://user-images.githubusercontent.com/113586105/222087298-af7c6597-0f41-430e-8ef0-c68c23b4831a.png)
+![image](https://user-images.githubusercontent.com/113586105/222089800-b99cfd11-ccf6-4977-b913-dda3cd9b47ec.png)
 
 2. vehicle
 
@@ -74,7 +84,7 @@ ong és responsable de contindre UML
 
 4. llibre
 
-![image](https://user-images.githubusercontent.com/113586105/222084365-ed295527-43bd-41a4-b4a5-3528b5ebba0d.png)
+![image](https://user-images.githubusercontent.com/113586105/222089239-c7111148-f1ff-4dd3-af83-dd6d2bdc99dc.png)
 
 ###### HERÈNCIA
 
@@ -83,6 +93,22 @@ ong és responsable de contindre UML
 ![image](https://user-images.githubusercontent.com/113586105/222088870-00b21c24-2e9f-40d1-95d2-11d25cf994ee.png)
 
 2.
+
+![image](https://user-images.githubusercontent.com/113586105/222089534-68a2688a-8e6d-442d-9e91-17356e1335d9.png)
+
+3.
+
+![image](https://user-images.githubusercontent.com/113586105/222090134-c97fdf7d-fc62-4975-b1e1-63407fd93fcf.png)
+
+4.
+
+![image](https://user-images.githubusercontent.com/113586105/222092194-4117902a-0f5a-4b57-b8ba-4dbef84a4dcc.png)
+
+5.
+
+![image](https://user-images.githubusercontent.com/113586105/222098188-2c1483f9-bc66-4277-b76a-cf3ba0455482.png)
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
