@@ -56,13 +56,13 @@ La 1.4.2 va ser publicada per la iso l'any 2005.
 
 ##### 6. Què vol dir **OMG**?
 
-Estandaritzar el object model en totes les seves formes.
+Object Management Froup- estandaritzar el object model en totes les seves formes.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 
-##### 7. **Relació** entre Rational Rose amb UML?
+##### 7. **Relació** entre OMG i UML ?
 
-ong és responsable de contindre UML
+Ong és responsable de mantindre UML desd de que es va convertir en un estandar.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 
