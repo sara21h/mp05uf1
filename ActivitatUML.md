@@ -1,4 +1,4 @@
-##### ACTIVITATS RECERCA
+##### ACTIVITATS RECERCA UML
 
 ##### 1. principals **versions** fins ara i de quin any són
 
@@ -55,3 +55,36 @@ estandaritzar el object model en totes les seves formes
 --
 
 ong és responsable de contindre UML
+
+##### ACTIVITATS DIAGRAMES CLASSE
+
+###### CREACIÓ DIAGRAMES
+
+1. persona
+
+![image](https://user-images.githubusercontent.com/113586105/222087298-af7c6597-0f41-430e-8ef0-c68c23b4831a.png)
+
+2. vehicle
+
+![image](https://user-images.githubusercontent.com/113586105/222087327-ec5550b1-fad8-48f7-a74a-04f3511168e2.png)
+
+3. ordinador
+
+![image](https://user-images.githubusercontent.com/113586105/222084032-5c7ba691-8887-4404-b5b9-2d2274ac8b6c.png)
+
+4. llibre
+
+![image](https://user-images.githubusercontent.com/113586105/222084365-ed295527-43bd-41a4-b4a5-3528b5ebba0d.png)
+
+###### HERÈNCIA
+
+1.
+
+![image](https://user-images.githubusercontent.com/113586105/222088870-00b21c24-2e9f-40d1-95d2-11d25cf994ee.png)
+
+2.
+
+
+
+
+
