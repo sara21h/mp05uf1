@@ -176,8 +176,52 @@ taxi, client
 
 ![image](https://user-images.githubusercontent.com/113586105/226837694-d2c065d6-3763-4cae-8ed4-d463a470db99.png)
 
+Crec que un taxi al mateix temps pot tindre de 0 a molts clients, i un client anirà a un sol taxi.
+
+###### ACTIVITAT AGREGACIÓ
+
+1. ovelles, corral
+
+![image](https://user-images.githubusercontent.com/113586105/226841586-c7292e4c-dd58-44d3-82dc-5f0376a99fa5.png)
+
+2. animals, zoo
+
+![image](https://user-images.githubusercontent.com/113586105/226841740-455d1451-3dc3-457c-b156-7ac2ad0b4603.png)
+
+3. curs, estudiants
+
+![image](https://user-images.githubusercontent.com/113586105/226842399-c044f158-15a7-41ba-9efb-9a82af3dafd7.png)
+
+![image](https://user-images.githubusercontent.com/113586105/226844179-b0382616-68be-44bf-9122-e57787387d62.png)
+
+4. biblioteca, llibres
+
+![image](https://user-images.githubusercontent.com/113586105/226843582-dd10cd51-026e-4152-81a3-f6e27041cee6.png)
+
+5. ateletes, equip 
+
+![image](https://user-images.githubusercontent.com/113586105/226844721-5a9a2d1b-c654-4419-b5c6-9eed9deda509.png)
+
+###### ACTIVITAT COMPOSICIÓ
+
+1.
+
+![image](https://user-images.githubusercontent.com/113586105/226845773-72f541c2-b71a-4940-9ddb-48fedeee4f84.png)
+
+2.
+
+![image](https://user-images.githubusercontent.com/113586105/226846059-b21987a2-9980-4687-b7b1-adf28e88a52e.png)
+
+3.
 
 
----
+
+4.
+
+5.
+
+
+
+--
 
 ![image](https://user-images.githubusercontent.com/113586105/226837912-3fa40cd8-5b1c-4b3c-b062-d77e8369a608.png)
