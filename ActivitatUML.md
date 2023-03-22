@@ -114,6 +114,8 @@ Ong és responsable de mantindre UML desd de que es va convertir en un estandar.
 
 Quan les relacions són entre diferents classes s'anomenen associacions.
 
+M'HE EQUIVOCAT ELS ATRIBUTS DE PERSONA SÓN PRIVATE (-).
+
 1.
 
 persona, DNI
@@ -122,9 +124,13 @@ persona, DNI
 
 Exactament un, ja que una persona sol pot tindre un DNI i un DNI en concret sol el té una persona.
 
+2.
+
 persona, comics
 
 ![image](https://user-images.githubusercontent.com/113586105/226831842-82d09bc1-4064-4610-b1cc-2f1d7bf43849.png)
+
+3.
 
 persona, tren
 
@@ -132,6 +138,46 @@ persona, tren
 
 Ja que una persona pot viatjar de 0 a 1 tren, no pot estar a varios al mateix temps. A un tren poden viatjar moltes persones.
 
+4.
+
+animal, persona
+
+![image](https://user-images.githubusercontent.com/113586105/226832736-dbc89810-88da-476f-bd81-126b36af6a10.png)
+
+Una persona pot tindre de 0 a molts animals i un animal pot tindre de 0 a moltes persones.
+
+5.
+
+persona, persona
+
+![image](https://user-images.githubusercontent.com/113586105/226835590-fe23a17c-a7b1-4701-bdee-bdda6641e2ee.png)
+
+Una persona pot tindre de 0 a molts amics persones i l'altra igual.
+
+6.
+
+persona, cotxe
+
+![image](https://user-images.githubusercontent.com/113586105/226836134-7fa4b262-17ad-46b4-a3f9-b644faa0d79e.png)
+
+Crec que una persona pot ser propietari de un a molts cotxes però com a propietari de un cotxe sol és una persona.
+
+7.
+
+persona, adreça
+
+![image](https://user-images.githubusercontent.com/113586105/226837415-4adc3ff4-8633-448b-a5b2-acf1f8051421.png)
+
+Una persona té una sola adreça i una adreça en concret la poden tindre de 0 a moltes persones.
+
+8.
+
+taxi, client
+
+![image](https://user-images.githubusercontent.com/113586105/226837694-d2c065d6-3763-4cae-8ed4-d463a470db99.png)
 
 
 
+---
+
+![image](https://user-images.githubusercontent.com/113586105/226837912-3fa40cd8-5b1c-4b3c-b062-d77e8369a608.png)
