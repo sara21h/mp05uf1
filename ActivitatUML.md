@@ -110,6 +110,27 @@ Ong és responsable de mantindre UML desd de que es va convertir en un estandar.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 
+###### RELACIÓ
+
+Quan les relacions són entre diferents classes s'anomenen associacions.
+
+1.
+
+persona, DNI
+
+![image](https://user-images.githubusercontent.com/113586105/226828584-5da9ce28-fa25-4816-becf-7221f1f36989.png)
+
+Exactament un, ja que una persona sol pot tindre un DNI i un DNI en concret sol el té una persona.
+
+persona, comics
+
+![image](https://user-images.githubusercontent.com/113586105/226831842-82d09bc1-4064-4610-b1cc-2f1d7bf43849.png)
+
+persona, tren
+
+![image](https://user-images.githubusercontent.com/113586105/226826821-20cb58a7-78fd-4e18-a70f-e6250ecd2fb7.png)
+
+Ja que una persona pot viatjar de 0 a 1 tren, no pot estar a varios al mateix temps. A un tren poden viatjar moltes persones.
 
 
 
