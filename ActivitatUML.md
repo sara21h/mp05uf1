@@ -239,7 +239,17 @@ Crec que un taxi al mateix temps pot tindre de 0 a molts clients, i un client an
 
 1.
 
+![image](https://user-images.githubusercontent.com/113586105/228065445-93df003c-eaca-44d1-9f3b-c7820d0fbc14.png)
+
+codificació:
+
+![image](https://user-images.githubusercontent.com/113586105/228065879-ae245857-0f75-43c5-99ff-f14ef8475b38.png)
+
+
 2.
+
+![image](https://user-images.githubusercontent.com/113586105/228067368-976e122b-ee6e-4bd9-ac5b-16599925f2ac.png)
+
 
 
 --
