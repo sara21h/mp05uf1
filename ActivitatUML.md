@@ -234,6 +234,7 @@ Crec que un taxi al mateix temps pot tindre de 0 a molts clients, i un client an
 
 ![image](https://user-images.githubusercontent.com/113586105/226865743-b32f99d0-cd11-4e84-98ed-4a2d67da32a9.png)
 
+--
 
 ###### ACTIVITAT INTERFÍCIE
 
@@ -245,13 +246,16 @@ codificació:
 
 ![image](https://user-images.githubusercontent.com/113586105/228065879-ae245857-0f75-43c5-99ff-f14ef8475b38.png)
 
+mètode per a calcular la diferència d'edat entre el pare i el fill.
 
 2.
 
 ![image](https://user-images.githubusercontent.com/113586105/228067368-976e122b-ee6e-4bd9-ac5b-16599925f2ac.png)
 
+codificació:
+
+![image](https://user-images.githubusercontent.com/113586105/228069643-6481f111-a4a5-44b4-b4cf-bc6cd996bd38.png)
+
+mètodes d'operacions de suma i resta.
 
 
---
-
-![image](https://user-images.githubusercontent.com/113586105/226837912-3fa40cd8-5b1c-4b3c-b062-d77e8369a608.png)
