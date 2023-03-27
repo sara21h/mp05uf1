@@ -1,4 +1,4 @@
-##### ACTIVITATS RECERCA UML
+##### ACTIVITATS RECERCA UML I DIAGRAMES DE CLASSE
 
 ##### 1. principals **versions** fins ara i de quin any són
 
