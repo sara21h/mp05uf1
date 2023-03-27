@@ -222,7 +222,7 @@ Crec que un taxi al mateix temps pot tindre de 0 a molts clients, i un client an
 
 5.
 
-
+![image](https://user-images.githubusercontent.com/113586105/227889189-d869bbc3-5647-4cc7-b56b-be14563cdfc9.png)
 
 ###### ACTIVITAT ASSOCIACIÓ
 
@@ -237,6 +237,9 @@ Crec que un taxi al mateix temps pot tindre de 0 a molts clients, i un client an
 
 ###### ACTIVITAT INTERFÍCIE
 
+1.
+
+2.
 
 
 --
