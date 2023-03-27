@@ -230,9 +230,15 @@ Crec que un taxi al mateix temps pot tindre de 0 a molts clients, i un client an
 
 ![image](https://user-images.githubusercontent.com/113586105/226865923-6b3457b0-abd1-42bb-8bbe-27f48bf1fc7c.png)
 
+Associació entre la classe persona i la classe mobil, l'associació es diu utilitza i té la propietat temps (temps en propietat).
+Una persona pot tindre de 0 a molts mobils i un mobil té com a propietari 1 sola persona.
+
 2.
 
 ![image](https://user-images.githubusercontent.com/113586105/226865743-b32f99d0-cd11-4e84-98ed-4a2d67da32a9.png)
+
+Tenim una associació entre la classe gat i la classe llit, l'associació es diu dorm i té la propietat temps (temps en propietat).
+Un gat pot tindre de 0 a molts llits i un llit pot tindre de 0 a molts gats.
 
 --
 
