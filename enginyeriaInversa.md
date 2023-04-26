@@ -2,24 +2,56 @@
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------
 
--1 i 2 
+-1, 2
 
 Creem la classe Calculadora a Umbrello i afegim els mètodes, que hem observat que al main crida a "sumar", "restar", "multiplicar" i "dividir":
 
-![image](https://user-images.githubusercontent.com/113586105/234488793-45bd0c07-b553-4278-bbf6-da1bbb99325f.png)
+![image](https://user-images.githubusercontent.com/113586105/234496767-6daaef22-53f0-40df-a68e-a4416865925b.png)
 
-![image](https://user-images.githubusercontent.com/113586105/234488771-b06f548a-e3b4-4936-a645-74f8f84db74b.png)
+![image](https://user-images.githubusercontent.com/113586105/234497226-20a749e3-2713-48f6-9c1d-4df4bfe33551.png)
 
-![image](https://user-images.githubusercontent.com/113586105/234489492-934557f7-7a2a-46d0-ad08-42a06aae23f9.png)
+![image](https://user-images.githubusercontent.com/113586105/234499093-50ce434b-abff-48e0-833a-9ea1d968a499.png)
 
-![image](https://user-images.githubusercontent.com/113586105/234489504-37aadc30-e42c-428f-b15f-47af224a093b.png)
+![image](https://user-images.githubusercontent.com/113586105/234499137-313b0846-95bf-4496-975f-f371391f0767.png)
 
-![image](https://user-images.githubusercontent.com/113586105/234489512-9a0f8268-d696-496c-b141-a15aa1eab95d.png)
+![image](https://user-images.githubusercontent.com/113586105/234499159-1752e964-57b8-4a17-8854-cbdea627d855.png)
+
+![image](https://user-images.githubusercontent.com/113586105/234499184-59a34e01-7218-4d14-a38d-b9bed5d7a4c0.png)
+
+
+Hem passat com a paràmetre de cada mètode de calculadora a i b. On tenim una operació amb el nom de cada operació i després la cridem.
 
 -3 Ara per a importar el codi Main
 
+Creem un fitxer .java amb el codi
+
 ![image](https://user-images.githubusercontent.com/113586105/234490412-1fe06367-f16c-46de-b2a8-0bc9493e3e41.png)
 
+L'importem al umbrello a "Assistent d'importació de codi" i seleccionem el fitxer anterior.
+
 ![image](https://user-images.githubusercontent.com/113586105/234490441-23def4a4-9305-4daa-8acd-944c9e8c5f94.png)
+
+Copiem el codi al codi font.
+
+![image](https://user-images.githubusercontent.com/113586105/234491387-1d3ca67a-9de2-4f2f-b7d1-3d20407bd938.png)
+
+![image](https://user-images.githubusercontent.com/113586105/234491410-56f05a38-736f-4c4f-8db6-e506a9bc95bc.png)
+
+--3 
+
+Exportem el codi 
+
+![image](https://user-images.githubusercontent.com/113586105/234492293-aea63b55-0fdd-4048-84c5-4ac4ddf7cd7e.png)
+
+![image](https://user-images.githubusercontent.com/113586105/234492429-bb425383-254b-4521-807d-666834140582.png)
+
+![image](https://user-images.githubusercontent.com/113586105/234492985-dabdf8c2-5114-4077-beb5-f21dc2c21b29.png)
+
+Ara també per a Python
+
+![image](https://user-images.githubusercontent.com/113586105/234493511-acc0c9f0-5c3c-447a-811b-045afe357b7a.png)
+
+![image](https://user-images.githubusercontent.com/113586105/234493605-ad43e521-e449-4e89-8770-8fdca39573d3.png)
+
 
 
