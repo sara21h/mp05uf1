@@ -47,11 +47,38 @@ Exportem el codi
 
 ![image](https://user-images.githubusercontent.com/113586105/234492985-dabdf8c2-5114-4077-beb5-f21dc2c21b29.png)
 
+--4
+
 Ara també per a Python
 
 ![image](https://user-images.githubusercontent.com/113586105/234493511-acc0c9f0-5c3c-447a-811b-045afe357b7a.png)
 
 ![image](https://user-images.githubusercontent.com/113586105/234493605-ad43e521-e449-4e89-8770-8fdca39573d3.png)
+
+--5
+
+Ara quan imprtem el codi generat a un programa per a utilitzar-lo ens surten varios errors.
+Un d'ells per exemple el paquet, l'hem d'introduüir dins.
+També per a que funcioni hem borrat coses que hem vist que podrien ser innecesàries i els comentaris buits.
+També hem posat un break ja que ens tornava a demanar número enlloc de parar.
+Ens ha quedat així:
+
+![image](https://user-images.githubusercontent.com/113586105/234501746-25cbecb3-3fb2-41cc-9c26-fdd447ba23d6.png)
+
+![image](https://user-images.githubusercontent.com/113586105/234500937-588da64b-c92e-4c04-9ae2-2af1cb60a22c.png)
+
+![image](https://user-images.githubusercontent.com/113586105/234500979-ac1154f8-0e81-4a17-95b7-cba0f12a2565.png)
+
+comprovacions:
+
+![image](https://user-images.githubusercontent.com/113586105/234502099-407719cc-6560-4b2d-b593-180954999758.png)
+
+![image](https://user-images.githubusercontent.com/113586105/234502187-062a6aea-9fd3-4159-8515-6cc91e9a4e6c.png)
+
+![image](https://user-images.githubusercontent.com/113586105/234502345-bcd532bd-9eb6-4171-afe9-18ab1e7b6185.png)
+
+![image](https://user-images.githubusercontent.com/113586105/234502433-59595a85-57b6-4798-8c95-6d98dfc77605.png)
+
 
 
 
