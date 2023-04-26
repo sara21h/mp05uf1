@@ -80,5 +80,18 @@ comprovacions:
 ![image](https://user-images.githubusercontent.com/113586105/234502433-59595a85-57b6-4798-8c95-6d98dfc77605.png)
 
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------
 
+***BATALLES***
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------
+
+--1 DIAGRAMA DE CLASSES DE LA CLASSE PERSONATGE AMB ELS SEUS ATRIBUTS
+
+--2 EXPORTAR DIAGRAMA A CODI PYTHON
+
+--3 FER DIAGRAMA DE CASOS D'ÚS QUE PENSEM QUE TINDRIA EL JOC
+
+![image](https://user-images.githubusercontent.com/113586105/234521620-f5db8996-ab4e-4c61-91da-5b67385c44af.png)
+
+--4 FER EL DIAGRAMA DE SEQÜÈNCIA TOTAL O D'ALGUN CAS D'ÚS ESPECÍFIC QUE PENSEM QUE TINDRIA LLOC 
