@@ -1,0 +1,2 @@
+#### DIAGRAMA D'ACTIVITATS ####
+
