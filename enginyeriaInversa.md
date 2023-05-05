@@ -106,3 +106,12 @@ I tenim també els mètodes, que són atacar (paràmetre atac), atacar amb màgi
 --4 FER EL DIAGRAMA DE SEQÜÈNCIA TOTAL O D'ALGUN CAS D'ÚS ESPECÍFIC QUE PENSEM QUE TINDRIA LLOC AL JOC 
 
 Ho faré d'un cas en específic, per exemple de atacar
+
+![image](https://user-images.githubusercontent.com/113586105/236424560-1c3241a6-d69a-43d5-b855-4b7743bb1539.png)
+
+És representant al joc així que sol he ficat als 2 personatges i a l'usuari, també hauriem pogut ficar sistema o algo així.
+
+A l'if tenim que depenent de si alguns dels 2 s'ha quedat sense vida q mostraria a la mort +1. Si no, esperaran el següent moviment de l'usuari.
+
+![image](https://user-images.githubusercontent.com/113586105/236426059-678aa4d2-fbf8-4fe4-8413-f15ac6790ef1.png)
+
