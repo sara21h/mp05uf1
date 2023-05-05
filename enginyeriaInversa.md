@@ -88,10 +88,21 @@ comprovacions:
 
 --1 DIAGRAMA DE CLASSES DE LA CLASSE PERSONATGE AMB ELS SEUS ATRIBUTS
 
+![image](https://user-images.githubusercontent.com/113586105/236411878-0455f05c-fa2d-4dcb-8965-d3709a636eee.png)
+
+He creat la classe personatge amb els atributs atac, atac màgic, armadura, manà, pocions i vida, totes de tipo int (que tenen un valor predeterminat).
+I tenim també els mètodes, que són atacar (paràmetre atac), atacar amb màgia (paràmetre atac màgic i la mana), defensar (paràmetre armadura) i curar (paràmetre vida i les pocions). Li he passat aquests paràmetres ja que els podriem necessitar dins del mètode.
+
 --2 EXPORTAR DIAGRAMA A CODI PYTHON
+
+![image](https://user-images.githubusercontent.com/113586105/236412076-68bc1950-cf9c-4efb-b783-0af56e44bf57.png)
+
+![image](https://user-images.githubusercontent.com/113586105/236412254-864a927a-7cf5-42cb-b0a3-718f666b040b.png)
 
 --3 FER DIAGRAMA DE CASOS D'ÚS QUE PENSEM QUE TINDRIA EL JOC
 
 ![image](https://user-images.githubusercontent.com/113586105/234521620-f5db8996-ab4e-4c61-91da-5b67385c44af.png)
 
---4 FER EL DIAGRAMA DE SEQÜÈNCIA TOTAL O D'ALGUN CAS D'ÚS ESPECÍFIC QUE PENSEM QUE TINDRIA LLOC 
+--4 FER EL DIAGRAMA DE SEQÜÈNCIA TOTAL O D'ALGUN CAS D'ÚS ESPECÍFIC QUE PENSEM QUE TINDRIA LLOC AL JOC 
+
+Ho faré d'un cas en específic, per exemple de atacar
