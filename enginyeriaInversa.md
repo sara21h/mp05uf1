@@ -115,3 +115,4 @@ A l'if tenim que depenent de si alguns dels 2 s'ha quedat sense vida q mostraria
 
 ![image](https://user-images.githubusercontent.com/113586105/236426059-678aa4d2-fbf8-4fe4-8413-f15ac6790ef1.png)
 
+Crec que d'aquesta manera està millor fet.
